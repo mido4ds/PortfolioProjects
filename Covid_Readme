@@ -11,4 +11,4 @@ C. Aggregating data to calculate metrics like death rates per capita, mortality 
 D. Joining multiple tables if the dataset is normalized and distributed across multiple tables.
 E. Identifying trends over time, geographical patterns, or correlations between variables.
 
-Lastly, Data Exploration: The project  involves thorough exploration of the data using SQL queries. This includes examining distributions of variables, identifying outliers, detecting missing values, and performing exploratory data analysis to gain insights into the characteristics of Covid-19 deaths.
+Lastly, Data Exploration: The project  involves thorough exploration of the data using SQL queries. This includes examining distributions of variables, identifying outliers, detecting missing values, and performing exploratory data analysis to gain insights into the characteristics of Covid-19 deaths..
