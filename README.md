@@ -1,1 +1,15 @@
 This Project was made to Analyze the data back in the time of Covid-19. 
+
+Objective: The objective of this project would is to explore and analyze data related to Covid-19 deaths using SQL queries. The goal could is to uncover insights, trends, patterns, or correlations within the data.
+
+Dataset: The dataset used for this project  contains information about Covid-19 deaths. This dataset  includes variables such as date of death, location, age, gender, comorbidities, and possibly other relevant information.
+
+SQL Queries: SQL (Structured Query Language) is used to retrieve, manipulate, and analyze data from the dataset. SQL queries is written to perform various tasks such as:
+
+A. Retrieving basic statistics such as total number of deaths, average age of deceased individuals, etc.
+B. Filtering data based on specific criteria such as location, age group, gender, etc.
+C. Aggregating data to calculate metrics like death rates per capita, mortality rates by age group, etc.
+D. Joining multiple tables if the dataset is normalized and distributed across multiple tables.
+E. Identifying trends over time, geographical patterns, or correlations between variables.
+
+Lastly, Data Exploration: The project  involves thorough exploration of the data using SQL queries. This includes examining distributions of variables, identifying outliers, detecting missing values, and performing exploratory data analysis to gain insights into the characteristics of Covid-19 deaths.
